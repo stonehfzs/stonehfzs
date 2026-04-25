@@ -47,8 +47,6 @@ These repositories are currently finished and would not have big changes recentl
 
 ## 📊 Code Stats
 
-[![stonehfzs's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stonehfzs&theme=nord&layout=compact&hide_border=true&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stonehfzs&theme=nord&layout=compact&hide_border=true&cache_seconds=1" alt="WakaTime Stats" />
 </p>
